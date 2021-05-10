@@ -1,0 +1,2 @@
+Warning (10268): Verilog HDL information at MazeGame.v(310): always construct contains both blocking and non-blocking assignments File: //SRVB/Homes$/athana31/Downloads/ECE241 Lab/Scary Maze Game/MazeGame.v Line: 310
+Info (10281): Verilog HDL Declaration information at MazeGame.v(357): object "teleport" differs only in case from object "Teleport" in the same scope File: //SRVB/Homes$/athana31/Downloads/ECE241 Lab/Scary Maze Game/MazeGame.v Line: 357
