@@ -1,4 +1,4 @@
-# fpga_maze_game
+# FPGA Maze Game
 
 This is a maze traversal game built using Verilog code meant to be run on a field-programmable gate array (FPGA), specifically the Altera DE1-SoC board. The goal of the game is to traverse a maze and get to the finish line without coming into contact with any walls while controlling a constantly-moving player character.
 
